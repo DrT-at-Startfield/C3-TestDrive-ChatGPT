@@ -3,7 +3,7 @@
 This is a repository with a simple python script that demo's some ChatGPT code. This project is part of
 Startfield's C3 - Cloud, Cyber, & Coding program.
 
-Want to learn more? Head over to [Startfield's web presence]([https://](https://startfield.org/)https://startfield.org/)
+Want to learn more? Head over to [Startfield\'s web presence](https://startfield.org/)
 
 What else do you need to do to get rolling?
 1. Sign up for an account at [OpenAI](https://openai.com/)
