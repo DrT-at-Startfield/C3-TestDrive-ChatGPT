@@ -19,6 +19,8 @@ class TestDriveGPT:
     def load_api_key(self):
         load_dotenv()
         self.api_token = os.getenv("OPENAI_API_KEY")
+        # Use the version below if you are using Replit's Secret tool
+        #self.api_token = os.environ['OPENAI_API_KEY']
         openai.api_key = self.api_token
 
     def init_chat(self):
